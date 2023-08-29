@@ -2,8 +2,7 @@
 
 This is a Discord clone built using HTML, Tailwind CSS, & Javascript.                                          
 It provides a similar user interface and functionality to the popular communication platform Discord.                                                                                                    
-
-                                                                                                                                                                                                                                                                                          
+<br>                                                              
 Prerequisites                                                                      
 The following must be installed :
 
@@ -30,6 +29,8 @@ Installation
     npm start start
 
 5] Open your web browser and visit http://localhost:3000 to access the Discord clone. 
+
+<br>
 
 Technologies used to build this Discord clone:
 
