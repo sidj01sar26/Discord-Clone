@@ -12,24 +12,24 @@ The following must be installed :
 
 Installation 
 
-1 Clone the repository: <br>
+1] Clone the repository: <br>
 
     git clone https://github.com/your-username/discord-clone.git
 
-2 Navigate to the project directory:
+2] Navigate to the project directory:
 
     cd discord-clone
 
-3 Install the dependencies:
+3] Install the dependencies:
 
     npm install
 
-4 Usage
+4] Usage
 
     Start the development server: 
     npm start start
 
-5 Open your web browser and visit http://localhost:3000 to access the Discord clone. 
+5] Open your web browser and visit http://localhost:3000 to access the Discord clone. 
 
 Technologies used to build this Discord clone:
 
